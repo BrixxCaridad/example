@@ -1,0 +1,8 @@
+/* mybootstrap.css */
+
+.container { width: 1000px; }
+.header { background-color: #ddd; }
+.contents { min-height: 500px; }
+.footer { background-color: #ddd; 
+
+}
